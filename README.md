@@ -16,7 +16,7 @@
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="img/python.png" alt="Logo Python" width="100"/>
   </div>
-  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+  <div>
     <img src="img/pandas.png" alt="Logo Pandas" width="300"/>
   </div>
 </div>
